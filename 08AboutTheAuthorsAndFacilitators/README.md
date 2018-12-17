@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
-# About the authors & facilitators
+# Σχετικά με τους συγγραφείς και τους διαμεσολαβητές
 
-## Authors at the sprint event
+## Συγγραφείς στη σύντομη εκδήλωση
 
 ### Sonja Bezjak
 
@@ -9,11 +9,11 @@
 * [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
 * [@sonja\_adp](https://twitter.com/sonja_adp)
 
-<iframe src="https://www.youtube.com/embed/v41JkOz9svA" frameborder="0" allowfullscreen></iframe> 
+<iframe src="https://www.youtube.com/embed/qygm7Byc9eA" frameborder="0" allowfullscreen></iframe> 
 
-In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
+Στο Social Science Data Archives ασχολούμαι κυρίως με θέματα σχετικά με την ανοικτή  πρόσβαση των ερευνητικών δεδομένων. Ένας από τους ρόλους μου είναι να εκπαιδεύσω διάφορους εμπλεκόμενους φορείς στην πολιτική ερευνητικών δεδομένων, στον σχεδιασμό διαχείρισης ερευνητικών δεδομένων, στις παραπομπές,  στις δημοσιεύσεις κλπ. Ως μέλος της ομάδας κατάρτισης CESSDA ERIC προσπαθώ να μοιράζομαι τις γνώσεις και την εμπειρία μου διεθνώς.
 
-I was taught about scientific values, including transparency and reproducibility while studying sociology. But only later from my friends, a physicist and an engineer, I learnt about the Open Source movement. I immediately understood the importance of spreading the idea of not hiding your findings and sharing your knowledge with others as soon as possible. Only when I started to work at the Social Science Data Archives \(University of Ljubljana, Slovenia\) and became heavily involved in the Open data project I realized how much effort was needed to change the culture and to be able to get over the barriers of not openly sharing research outputs. I hope this handbook will help in making science as open and understandable as possible.
+Διδάχτηκα τις επιστημονικές αξίες,  συμπεριλαμβανομένης της διαφάνειας και της αναπαραγωγιμότητας, όταν σπούδαζα κοινωνιολογία. But only later from my friends, a physicist and an engineer, I learnt about the Open Source movement. I immediately understood the importance of spreading the idea of not hiding your findings and sharing your knowledge with others as soon as possible. Only when I started to work at the Social Science Data Archives \(University of Ljubljana, Slovenia\) and became heavily involved in the Open data project I realized how much effort was needed to change the culture and to be able to get over the barriers of not openly sharing research outputs. I hope this handbook will help in making science as open and understandable as possible.
 
 ### Philipp Conzett
 
